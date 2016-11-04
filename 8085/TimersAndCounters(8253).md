@@ -17,8 +17,10 @@ Timer can be in 6 Modes:  <br/>
 ####Mode-0:
 1. Only mode in which initial output is LOW.
 2. When gate is high and Clock L-->H-->L, counting starts.
-2. After N CLK pulses, counter becomes 0 i.e terminal count has reached => Output becomes high 
-3. A L-->H interrupt is generated after count is terminated.
+3. After N CLK pulses, counter becomes 0 i.e terminal count has reached => Output becomes high and stays hight
+4. A L-->H interrupt is generated after count is terminated.
+5. * OUT remains high until a NEW COUNT OR COMMAND WORD is loaded. (Counting need not start yet, OUT just becomes low)
+6. Effect of Gate in middle of counting can be seen in the following table 
 
 
 
