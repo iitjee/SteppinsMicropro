@@ -1,0 +1,16 @@
+/**
+  *Proteus is a simulation platform for different micro-controllers.
+  
+  STEPS:
+  * Write and compile your code in Keil uVision (this gives you the desired HEX file).
+  * Debug your code in Keil (optional) just to make sure it works the way you expect it to.
+  * Simulate the whole project in Proteus.
+  
+  USING PROTEUS:
+  Select and place components using the library.
+  Connect all the components as required.
+  * Load HEX file (if you’re using micro-controller).
+  * Simulate!
+
+
+*/
