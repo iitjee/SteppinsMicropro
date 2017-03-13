@@ -14,3 +14,13 @@
 
 
 */
+
+
+to drag elements = Spacebar + move 
+to rotate clockwise/anticlock = click + or - of number pad
+to delete object = RIGHT click twice (not left)
+to measure various params = in play mode -> pause simulation -> just lick anythin
+
+In component mode (@left bar) type p to get list of comps
+For power and ground, go to 'Terminals Mode' 
+Double click power and type +5V (don't forget)
