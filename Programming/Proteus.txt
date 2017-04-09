@@ -24,3 +24,9 @@ to measure various params = in play mode -> pause simulation -> just lick anythi
 In component mode (@left bar) type p to get list of comps
 For power and ground, go to 'Terminals Mode' 
 Double click power and type +5V (don't forget)
+
+resistance -> type res
+capacitor => type cap
+op amp => type 741
+
+For graphing, click graph button and click+pan it. set it's off time to '100m'
